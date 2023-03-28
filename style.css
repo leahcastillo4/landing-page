@@ -11,7 +11,6 @@ body {
     font-family:'Roboto', sans-serif;
     font-weight: 900;
     display: flex;
-    flex: 1;
     justify-content: space-between;
     
 }
