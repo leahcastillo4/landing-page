@@ -1,0 +1,18 @@
+.header {
+    font-size: 24px;
+    color: #F9FAF8;
+    background: #1F2937;
+    font-family:'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-weight: 100;
+    font-size: 18px;
+}
