@@ -12,15 +12,20 @@ body {
     font-weight: 900;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding-left: 80px;
+    padding-right: 80px;
     
 }
 
 .header-container > * {
     display: flex;
+    
 }
 
 ul {
     list-style-type: none;
+    gap: 20px;
 }
 
 a {
