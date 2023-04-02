@@ -107,6 +107,35 @@ button {
     width: 150px;
     text-align: center;
     margin-top: 5px;
+    margin-bottom: 100px;
 }
+
+.quote-container {
+    display: flex;
+    padding: 100px;
+    background: #E5E7EB;
+    flex: 0;
+    justify-content: center;
+    align-items: center;
+}
+
+.inspiring {
+    display:flex;
+    flex: 0;
+    width: 800px;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.thor {
+    display: flex;
+    justify-content: end;
+    width: 780px;
+    font-size: larger;
+    font-weight: 800;
+}
+
+
 
 
