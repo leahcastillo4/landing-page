@@ -12,10 +12,15 @@ body {
     font-weight: 900;
     display: flex;
     justify-content: space-between;
+    
+}
+
+.header-text {
+    display: flex;
+    
     align-items: center;
     padding-left: 80px;
     padding-right: 80px;
-    
 }
 
 .header-container > * {
@@ -26,6 +31,7 @@ body {
 ul {
     list-style-type: none;
     gap: 20px;
+    display: flex;
 }
 
 a,
@@ -47,7 +53,6 @@ a,
 img {
     width: 500px;
     height: auto;
-
 }
 
 .hero-header {
@@ -133,6 +138,41 @@ button {
     width: 780px;
     font-size: larger;
     font-weight: 800;
+}
+
+.cta-container {
+    display: flex;
+    padding: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+.cta-box {
+    display: flex;
+    background: #3882F6;
+    padding: 40px;
+    border-radius: 8px;
+    gap: 100px;
+    width: 900px;
+    justify-content: space-around;
+}
+
+.cta-text {
+    color: #F9FAF8;
+}
+
+.call {
+    font-size: 18px;
+    font-weight: 900;
+}
+
+.sign-up-text {
+    font-weight: 100;
+}
+
+.sign-up {
+    border-color: #F9FAF8;
+    
 }
 
 
